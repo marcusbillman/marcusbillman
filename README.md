@@ -1,4 +1,4 @@
-![Cover](cover.png)
+[![Cover](cover.png)](https://marcusbillman.com)
 
 ### Hej! I’m Marcus 👋
 
