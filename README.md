@@ -1,4 +1,4 @@
-![Cover image based on website hero](https://github.com/marcusbillman/marcusbillman.com-2024/blob/main/web/public/assets/images/social-embed-en.jpg?raw=true)
+![Cover image based on website hero](https://github.com/marcusbillman/marcusbillman.com-2024/blob/main/public/images/social-embed-en.jpg?raw=true)
 
 # Hej! 👋 I’m Marcus
 
